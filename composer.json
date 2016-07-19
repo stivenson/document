@@ -29,7 +29,8 @@
             "database"
         ],
         "psr-4": {
-            "document\\": "app/"
+            "document\\": "app/",
+            "Helpers\\":"app/Helpers"
         }
     },
     "autoload-dev": {
